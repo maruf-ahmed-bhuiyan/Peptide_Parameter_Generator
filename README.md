@@ -1,7 +1,24 @@
 <h1 align="center"> Peptide Parameter Generator </h1>
 <h2 align="center"> This is bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h2>
 
-
+# Instructions:
+- Download the paramgen.sh file
+- Copy all your peptides sequences in a text file
+- Place it in the same folder as the paramge.sh file
+- Make the paramgen.sh script executable (if not already) by typing
+```bash
+chmod +x paramgen.sh
+```
+- Open a terminal and navigate to the folder where the the script and text file is located or open a terminal directly from the location of the folder
+- Finally, run the script by typing
+```bash
+# ./paramgen.sh <type_your_filename>
+# For example if you saved the peptide sequences in peptides.txt file
+./paramgen.sh peptides.txt
+```
+- A tsv file will be generated named peptide_param.tsv
+- Open the file in excel
+- Enjoy !!
 
 
 <h3 align="center"> Hello, This is Maruf Ahmed Bhuiyan </h3>
