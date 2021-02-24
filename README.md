@@ -1,6 +1,7 @@
 <h1 align="center"> Peptide Parameter Generator </h1>
 <h2 align="center"> This is a bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h2>
 <h3 align="center"> Don't forget to hit the Star button if you liked it. </h3>
+<h4 align="center"> The amino acids were classified according to the following guideline. This is taken from _Lehninger Principle of Biochemistry_ </h4>
 
 ### Instructions:
 - Download the paramgen.sh file
