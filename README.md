@@ -22,6 +22,23 @@ chmod +x paramgen.sh
 ```
 - A tsv file will be generated named peptide_param.tsv
 - Open the file in excel
+| Sequence                                         | Length | Aromatic | Negatively Charged | Positively Charged | Polar | Non-polar |
+|--------------------------------------------------|--------|----------|--------------------|--------------------|-------|-----------|
+| GIPCAESCVYIPCTVTALLGCSCSNRVCYN                   | 30     | 2        | 1                  | 1                  | 13    | 13        |
+| GIPCGESCVWIPCISSAIGCSCKSKVCYRN                   | 30     | 2        | 1                  | 3                  | 12    | 12        |
+| GIPCGESCVWIPCLTSAIGCSCKSKVCYRN                   | 30     | 2        | 1                  | 3                  | 12    | 12        |
+| GIPCGESCVWIPCISSAIGCSCKNKVCYRN                   | 30     | 2        | 1                  | 3                  | 12    | 12        |
+| GTPCGESCVWIPCISSAVGCSCKNKVCYKN                   | 30     | 2        | 1                  | 3                  | 11    | 13        |
+| GTLPCGESCVWIPCISAVGCSCKSKVCYKN                   | 30     | 2        | 1                  | 3                  | 12    | 12        |
+| SIPCGESCVWIPCTITALAGCKCKSKVCYN                   | 30     | 2        | 1                  | 3                  | 12    | 12        |
+| GTLPCESCVWIPCISSVVGCSCKSKVCYKN                   | 30     | 2        | 1                  | 3                  | 11    | 13        |
+| GLPVCGETCVGGTCNTPGCTCSWPVCTRN                    | 29     | 1        | 1                  | 1                  | 12    | 14        |
+| FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ | 48     | 2        | 2                  | 12                 | 25    | 7         |
+| GKFSGFAKILKSIAKFFKGVGKVRKQFKEASDLDKNQ            | 37     | 5        | 3                  | 10                 | 13    | 6         |
+| GKLSGISKVLRAIAKFFKGVGKARKQFKEASDLDKNQ            | 37     | 3        | 3                  | 10                 | 15    | 6         |
+| GKFSVFSKILRSIAKVFKGVGKVRKQFKTASDLDKNQ            | 37     | 4        | 2                  | 10                 | 13    | 8         |
+| GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME              | 35     | 4        | 1                  | 8                  | 17    | 5         |
+| GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME              | 35     | 4        | 1                  | 8                  | 16    | 6         |
 
 <img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptide_param.png" alt="peptide_param.tsv" class="center">
 
