@@ -1,5 +1,5 @@
-# Peptide Parameter Generator
-This is bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.
+<h1 align="center"> Peptide Parameter Generator </h1>
+<h2 align="center"> This is bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h2>
 
 <h1 align="center"> Hello, </h1>
 <h2 align="center"> This is Maruf Ahmed Bhuiyan </h2>
@@ -20,3 +20,5 @@ This is bash script that generates the count of aromatic,  polar, non polar, aci
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
   </a>
 </p>
+
+<h1 
