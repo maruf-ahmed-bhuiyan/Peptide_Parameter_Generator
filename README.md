@@ -6,28 +6,14 @@
 <img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png" alt="Amino acid" class="center">
 <img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg" alt="Amino acid" class="center">
 
+<p align="center">
+  <img width="460" height="300" src=""https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
+  <img width="460" height="300" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg">
+</p>
 
 ### Instructions:
 - Download the paramgen.sh file
 - Copy all your peptides sequences in a text file
-
-| Sequence                                         |
-|--------------------------------------------------|
-| GIPCAESCVYIPCTVTALLGCSCSNRVCYN                   |
-| GIPCGESCVWIPCISSAIGCSCKSKVCYRN                   |
-| GIPCGESCVWIPCLTSAIGCSCKSKVCYRN                   |
-| GIPCGESCVWIPCISSAIGCSCKNKVCYRN                   |
-| GTPCGESCVWIPCISSAVGCSCKNKVCYKN                   |
-| GTLPCGESCVWIPCISAVGCSCKSKVCYKN                   |
-| SIPCGESCVWIPCTITALAGCKCKSKVCYN                   |
-| GTLPCESCVWIPCISSVVGCSCKSKVCYKN                   |
-| GLPVCGETCVGGTCNTPGCTCSWPVCTRN                    |
-| FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ |
-| GKFSGFAKILKSIAKFFKGVGKVRKQFKEASDLDKNQ            |
-| GKLSGISKVLRAIAKFFKGVGKARKQFKEASDLDKNQ            |
-| GKFSVFSKILRSIAKVFKGVGKVRKQFKTASDLDKNQ            |
-| GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME              |
-| GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME              |
 
 <img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png" alt="peptides.txt" class="center">
 
