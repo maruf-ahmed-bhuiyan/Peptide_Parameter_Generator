@@ -11,7 +11,7 @@
 - Copy all your peptides sequences in a text file
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png" alt="peptides.txt">
+  <img width="450" height="500" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png" alt="peptides.txt">
 </p>
 
 - Place it in the same folder as the paramge.sh file
