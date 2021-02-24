@@ -2,7 +2,7 @@
 <h2 align="center"> This is a bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h2>
 <h3 align="center"> Don't forget to hit the Star button if you liked it. </h3>
 
-# Instructions:
+### Instructions:
 - Download the paramgen.sh file
 - Copy all your peptides sequences in a text file
 
