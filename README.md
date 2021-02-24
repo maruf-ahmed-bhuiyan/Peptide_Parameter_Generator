@@ -67,6 +67,9 @@ chmod +x paramgen.sh
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
   </a>
+      <a href="https://github.com/maruf-ahmed-bhuiyan">
+      <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan">
+  </a>
 </p>
 
 <h1 
