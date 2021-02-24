@@ -6,6 +6,24 @@
 - Download the paramgen.sh file
 - Copy all your peptides sequences in a text file
 
+| Sequence                                         |   |   |   |   |   |   |
+|--------------------------------------------------|---|---|---|---|---|---|
+| GIPCAESCVYIPCTVTALLGCSCSNRVCYN                   |   |   |   |   |   |   |
+| GIPCGESCVWIPCISSAIGCSCKSKVCYRN                   |   |   |   |   |   |   |
+| GIPCGESCVWIPCLTSAIGCSCKSKVCYRN                   |   |   |   |   |   |   |
+| GIPCGESCVWIPCISSAIGCSCKNKVCYRN                   |   |   |   |   |   |   |
+| GTPCGESCVWIPCISSAVGCSCKNKVCYKN                   |   |   |   |   |   |   |
+| GTLPCGESCVWIPCISAVGCSCKSKVCYKN                   |   |   |   |   |   |   |
+| SIPCGESCVWIPCTITALAGCKCKSKVCYN                   |   |   |   |   |   |   |
+| GTLPCESCVWIPCISSVVGCSCKSKVCYKN                   |   |   |   |   |   |   |
+| GLPVCGETCVGGTCNTPGCTCSWPVCTRN                    |   |   |   |   |   |   |
+| FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ |   |   |   |   |   |   |
+| GKFSGFAKILKSIAKFFKGVGKVRKQFKEASDLDKNQ            |   |   |   |   |   |   |
+| GKLSGISKVLRAIAKFFKGVGKARKQFKEASDLDKNQ            |   |   |   |   |   |   |
+| GKFSVFSKILRSIAKVFKGVGKVRKQFKTASDLDKNQ            |   |   |   |   |   |   |
+| GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME              |   |   |   |   |   |   |
+| GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME              |   |   |   |   |   |   |
+
 <img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png" alt="peptides.txt" class="center">
 
 - Place it in the same folder as the paramge.sh file
