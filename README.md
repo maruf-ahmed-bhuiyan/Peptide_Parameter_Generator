@@ -41,4 +41,5 @@ chmod +x paramgen.sh
 </p>
 
 <h1 
+
 ![Footer](https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/blue-footer.png)
