@@ -41,8 +41,6 @@ chmod +x paramgen.sh
 | GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME              | 35     | 4        | 1                  | 8                  | 17    | 5         |
 | GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME              | 35     | 4        | 1                  | 8                  | 16    | 6         |
 
-<img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptide_param.png" alt="peptide_param.tsv" class="center">
-
 - Enjoy !!
 
 
