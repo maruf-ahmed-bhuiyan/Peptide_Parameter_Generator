@@ -7,7 +7,7 @@
 <img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg" alt="Amino acid" class="center">
 
 <p align="center">
-  <img width="460" height="300" src=""https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
+  <img width="460" height="300" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
   <img width="460" height="300" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg">
 </p>
 
