@@ -2,13 +2,9 @@
 <h2 align="center"> This is a bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h2>
 <h3 align="center"> Don't forget to hit the Star button if you liked it. </h3>
 <h4 align="center"> The amino acids were classified according to the following guideline. This is taken from Lehninger Principle of Biochemistry </h4>
-
-<img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png" alt="Amino acid" class="center">
-<img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg" alt="Amino acid" class="center">
-
 <p align="center">
-  <img width="460" height="300" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
-  <img width="460" height="300" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg">
+  <img width="400" height="600" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
+  <img width="300" height="300" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/Lehninger%20Principles%20of%20Biochemistry.jpg">
 </p>
 
 ### Instructions:
