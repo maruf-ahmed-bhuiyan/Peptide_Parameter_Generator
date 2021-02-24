@@ -5,6 +5,7 @@
 - Download the paramgen.sh file
 - Copy all your peptides sequences in a text file
 
+<img src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png" alt="Paris" class="center">
 ![peptides.text](https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png)
 
 - Place it in the same folder as the paramge.sh file
