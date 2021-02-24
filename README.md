@@ -22,6 +22,7 @@ chmod +x paramgen.sh
 ```
 - A tsv file will be generated named peptide_param.tsv
 - Open the file in excel
+
 | Sequence                                         | Length | Aromatic | Negatively Charged | Positively Charged | Polar | Non-polar |
 |--------------------------------------------------|--------|----------|--------------------|--------------------|-------|-----------|
 | GIPCAESCVYIPCTVTALLGCSCSNRVCYN                   | 30     | 2        | 1                  | 1                  | 13    | 13        |
