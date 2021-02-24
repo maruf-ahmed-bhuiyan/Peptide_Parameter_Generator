@@ -4,6 +4,7 @@
 # Instructions:
 - Download the paramgen.sh file
 - Copy all your peptides sequences in a text file
+![peptides.text](https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptides.png)
 - Place it in the same folder as the paramge.sh file
 - Open a terminal and navigate to the folder where the the script and text file is located or open a terminal directly from the location of the folder
 - Make the paramgen.sh script executable (if not already) by typing
@@ -18,6 +19,7 @@ chmod +x paramgen.sh
 ```
 - A tsv file will be generated named peptide_param.tsv
 - Open the file in excel
+![peptides.text](https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/peptide_param.png)
 - Enjoy !!
 
 
