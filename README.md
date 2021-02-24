@@ -5,11 +5,11 @@
 - Download the paramgen.sh file
 - Copy all your peptides sequences in a text file
 - Place it in the same folder as the paramge.sh file
+- Open a terminal and navigate to the folder where the the script and text file is located or open a terminal directly from the location of the folder
 - Make the paramgen.sh script executable (if not already) by typing
 ```bash
 chmod +x paramgen.sh
 ```
-- Open a terminal and navigate to the folder where the the script and text file is located or open a terminal directly from the location of the folder
 - Finally, run the script by typing
 ```bash
 # ./paramgen.sh <type_your_filename>
