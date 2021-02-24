@@ -3,7 +3,7 @@
 <h3 align="center"> Don't forget to hit the Star button if you liked it. </h3>
 <h4 align="center"> The amino acids were classified according to the following guideline. This is taken from Lehninger Principle of Biochemistry </h4>
 <p align="center">
-  <img width="800" height="800" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
+  <img width="500" height="600" src="https://github.com/maruf-ahmed-bhuiyan/Peptide_Parameter_Generator/blob/main/reference.png">
 </p>
 
 ### Instructions:
