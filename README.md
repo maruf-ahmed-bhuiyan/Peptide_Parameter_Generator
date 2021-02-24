@@ -7,8 +7,6 @@ This is bash script that generates the count of aromatic,  polar, non polar, aci
 
 - I are currently working on **Genomics, Vaccinomics, Computer Aided Drug Design, Machine Learning, Data Analaysis, Interactomics**
 
-- HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
-
 - Ask me about **Anything Science! I am passionate about talking science**
 
 - How to reach me? **dr.maruahmed89@gmail.com**
@@ -20,8 +18,5 @@ This is bash script that generates the count of aromatic,  polar, non polar, aci
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
-  </a>
-  <a href="https://github.com/maruf-ahmed-bhuiyan">
-      <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan">
   </a>
 </p>
