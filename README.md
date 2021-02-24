@@ -1,8 +1,10 @@
 <h1 align="center"> Peptide Parameter Generator </h1>
 <h2 align="center"> This is bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h2>
 
-<h1 align="center"> Hello, </h1>
-<h2 align="center"> This is Maruf Ahmed Bhuiyan </h2>
+
+
+
+<h2 align="center"> Hello, This is Maruf Ahmed Bhuiyan </h2>
 <h4 align="center"> I am a doctor by profession and a researcher by passion. I am currently pursuing my Doctor of Medicine (MD) in Virology in the Department of Virology at Bangabandhu Sheikh Mujib Medical University. I am passionate about impactful research and constantly on the hunt to acquire new skills. </h4>
 
 - I are currently working on **Genomics, Vaccinomics, Computer Aided Drug Design, Machine Learning, Data Analaysis, Interactomics**
