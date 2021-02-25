@@ -15,7 +15,7 @@
 </p>
 
 ### Instructions:
-- Download the paramgen.sh file
+- Download the paramgen.sh file or clone the repository
 - Copy all your peptides sequences in a text file
 
 <p align="center">
