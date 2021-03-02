@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 info() {
 echo -e "\nPeptide Parameters Generator Version 2.0"
@@ -9,11 +9,7 @@ echo -e "non-polar, acidic & basic residues for peptide sequences\n"
 
 # Stop executing the script if nonzero exit status
 # Stop executing the script if any pipe exits wtih nonzero exit status
-
 set -eo pipefail
-
-# Wait for 2 seconds
-sleep 2
 
 i=0
 
@@ -43,12 +39,12 @@ while IFS="\n" read p; do
 	
 	total=$((aromatic+polar+nonpolar+positive+negative))
 
-if [[ $i -eq 0 ]]; then
-echo -e "Sequence\tLength\tAromatic\tNegatively Charged\tPositively Charged\tPolar\tNon-polar"
-((i=i+1))
-fi
+	if [[ $i -eq 0 ]]; then
+		echo -e "Sequence\tLength\tAromatic\tNegatively Charged\tPositively Charged\tPolar\tNon-polar"
+		((i=i+1))
+	fi
 
-echo -e "$p\t$total\t$aromatic\t$negative\t$positive\t$polar\t$nonpolar"
+	echo -e "$p\t$total\t$aromatic\t$negative\t$positive\t$polar\t$nonpolar"
 
 done < "$1" | tee -a peptide_parameters.tsv
 
