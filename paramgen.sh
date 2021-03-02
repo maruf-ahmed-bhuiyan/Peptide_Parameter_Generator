@@ -8,7 +8,6 @@ echo -e "\nPeptide Parameters Generator Version 2.0"
 echo -e "-----Created by Maruf Ahmed Bhuiyan-----\n"
 }
 
-# Stop executing the script if nonzero exit status
 # Stop executing the script if any pipe exits wtih nonzero exit status
 set -o pipefail
 
