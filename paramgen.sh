@@ -66,6 +66,7 @@ fi
 # and for each line count the number of aromatic, positive, negative, polar, nonpolar residues
 # and total length of the peptide sequence
 # finally, generate a tab separated value (tsv) file
+
 while IFS="\n" read p; do
 	# count the aromatic residues such as Phenylalanine(F), Tyrosine(Y) or Tryptophan(W)
 	aromatic=$(echo $p | tr -cd "F|Y|W" | wc -c)
