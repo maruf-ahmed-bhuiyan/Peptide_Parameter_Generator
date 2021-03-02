@@ -33,7 +33,7 @@ fi
 if [[ -f peptide_parameters.tsv ]]
 then
 	echo -e "\npeptide_parameters.tsv file already exists. "
-	read -p "Do you want to append to the file? (y/n) " ANS
+	read -p "Do you want to append to the existing file? (y/n) " ANS
 	case $ANS in 
 		y|Y|[yY][eE][sS])
 			echo "File will be appended." 
