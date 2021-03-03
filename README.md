@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
+  </a>
 </p>
 
 <h3 align="center"> This is a bash script that generates the count of aromatic,  polar, non polar, acidic and basic residues from a text file containing the peptide sequences.</h3>
